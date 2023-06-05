@@ -401,7 +401,7 @@ footer {
 .timeline__desc h3 {
     font-size: 20px;
     font-weight: 300;
-    color: #f51112;
+    color: #f5f5f7;
     padding: 10px 0;
 }
 
@@ -423,7 +423,7 @@ footer {
 }     
 
 .timeline__line { 
-    border-right: 2px solid #d1d5db;
+    border-right: 2px solid #ad0000;
     left: 0.75rem;
     position: absolute;
     top: 0px;
@@ -446,7 +446,7 @@ footer {
 }  
 
 .timeline__circle {
-    background-color: #d1d5db;
+    background-color: #ad0000;
     border-radius: 9999px;
     height: 1.5rem;
     width: 1.5rem;
